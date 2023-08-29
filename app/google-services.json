@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "632983155573",
+    "project_id": "firestation-a806e",
+    "storage_bucket": "firestation-a806e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632983155573:android:56ab4fc182d8466c60d93c",
+        "android_client_info": {
+          "package_name": "com.example.firestation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632983155573-tt3t1skli09f3mo7guret26k0aeni4g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestation",
+            "certificate_hash": "3960833eb65d0fe615ddae00049dc315cfa13d43"
+          }
+        },
+        {
+          "client_id": "632983155573-c5ev42afffn35velj1ps8dno76kjbk4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5FwiQr22qiv4VSVBZdg-3IAYAyKBcgew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632983155573-c5ev42afffn35velj1ps8dno76kjbk4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632983155573:android:b189d5c64fcbb19760d93c",
+        "android_client_info": {
+          "package_name": "com.example.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632983155573-c5ev42afffn35velj1ps8dno76kjbk4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5FwiQr22qiv4VSVBZdg-3IAYAyKBcgew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632983155573-c5ev42afffn35velj1ps8dno76kjbk4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
